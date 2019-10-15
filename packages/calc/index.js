@@ -1,4 +1,4 @@
-const sum = require('sum');
+const sum = require('@monorepo/sum');
 
 const total = sum(5, 5);
 
