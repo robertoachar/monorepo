@@ -18,6 +18,12 @@ $ git clone https://github.com/robertoachar/monorepo.git
 $ yarn
 ```
 
+- Run
+
+```bash
+$ yarn start
+```
+
 ## Author
 
 [Roberto Achar](https://twitter.com/robertoachar)
